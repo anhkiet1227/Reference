@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" modified="2023-08-31T10:34:58.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="YNbII3cPmWFra48V7cfl" version="21.6.9" type="device">
+  <diagram name="Page-1" id="0PUGze9RIxwaz6OQvPXK">
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_pWwwIuMsX812Cfwxfod-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="81" width="190" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3063/3063176.png;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-18">
+          <mxGeometry width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#7EA6E0;" edge="1" parent="_pWwwIuMsX812Cfwxfod-18" source="_pWwwIuMsX812Cfwxfod-16" target="_pWwwIuMsX812Cfwxfod-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/5429213-200.png;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-18">
+          <mxGeometry x="120" y="1" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="79" y="310" width="225" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/5900/5900187.png;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-20">
+          <mxGeometry y="11.5" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/5662418-200.png;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-20">
+          <mxGeometry x="125" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#7EA6E0;" edge="1" parent="_pWwwIuMsX812Cfwxfod-20" source="_pWwwIuMsX812Cfwxfod-2" target="_pWwwIuMsX812Cfwxfod-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="534" y="71" width="246" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/002/163/523/non_2x/hospital-building-with-a-heart-sign-maternity-hospital-for-women-flat-illustration-vector.jpg;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-22">
+          <mxGeometry x="131" width="115" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#7EA6E0;startArrow=classic;startFill=1;" edge="1" parent="_pWwwIuMsX812Cfwxfod-22" source="_pWwwIuMsX812Cfwxfod-8" target="_pWwwIuMsX812Cfwxfod-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2152/2152488.png;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-22">
+          <mxGeometry y="6" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="581" y="326.5" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3159/3159952.png;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-25">
+          <mxGeometry x="100" y="-5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="140" width="442" height="532" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/588-hospital.svg/768px-588-hospital.svg.png;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-26">
+          <mxGeometry width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/6257/6257085.png;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-26">
+          <mxGeometry x="140" y="12" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="_pWwwIuMsX812Cfwxfod-26" source="_pWwwIuMsX812Cfwxfod-5" target="_pWwwIuMsX812Cfwxfod-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-31" value="Bệnh nhân muốn chuyển&#xa;hồ sơ sang bệnh viện B" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2621/2621786.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="_pWwwIuMsX812Cfwxfod-26">
+          <mxGeometry x="61" y="330" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-32" value="Bệnh viện A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="_pWwwIuMsX812Cfwxfod-26">
+          <mxGeometry x="301" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-34" value="Bệnh viện C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="_pWwwIuMsX812Cfwxfod-26">
+          <mxGeometry x="311" y="-18" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-35" value="Bệnh viện D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="_pWwwIuMsX812Cfwxfod-26">
+          <mxGeometry x="61" y="98" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="_pWwwIuMsX812Cfwxfod-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="361.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2091/2091665.png;" vertex="1" parent="1">
+          <mxGeometry x="560" y="326.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-33" value="Bệnh viện B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_pWwwIuMsX812Cfwxfod-36" value="Bệnh viện E" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="146.5" y="163" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
